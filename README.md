@@ -1,2 +1,2 @@
 # First-Project
-For practice purpose
+This project basically a E-Commerce Website for Shoes.
